@@ -2,6 +2,7 @@
 
 ## Deployed
 https://dcavinder-pwa-text-editor.herokuapp.com/
+![jate](https://user-images.githubusercontent.com/105369240/220788768-8fb010ed-188e-48da-875a-802ecd57a976.png)
 
 ## Description
 The PWA text editor as a progressive web app which allows users to download the application and work when the application is not online. Data is saved in the cache file and persists offline. The user can save, edit, and delete content on or offline. These types of applications are great for job where internet connection is not always readily available. 
